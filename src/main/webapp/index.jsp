@@ -11,8 +11,8 @@
         <h1 style="color: blue; font-size: 40px;" align="center">deployment</h1>
         <h1 style="color: black; font-size: 40px;" align="center">changes updated</h1>
         <h1 style="color: grey; font-size: 40px;" align="center">changes updated</h1>
-        <h1 style="color: green; font-size: 40px;" align="center">nexus learned successfully</h1>
-
+        <h1 style="color: green; font-size: 40px;" align="center">nexus integrated successfully</h1>
+        <h1 style="color: green; font-size: 40px;" align="center">nexus version changed successfully</h1>
 
 	
 	
